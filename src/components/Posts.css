@@ -1,0 +1,9 @@
+.postsList {
+  max-height: 41%;
+  overflow: scroll;
+}
+
+.validationMessage {
+  color: red;
+  font-size: small;
+}
